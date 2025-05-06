@@ -31,7 +31,7 @@ Estimators spend hours skimming large drawing sets. Automating detection shorten
 ## 5 Methodology  
 
 ### 5.1 Problem Statement  
-Supervised **object detection** for three classes: floor-plan, elevation, section.
+Supervised **object detection** for floor-plans, elevations & sections, *N* classes.
 
 ### 5.2 Data  
 Original PDFs with embedded annotations. 
